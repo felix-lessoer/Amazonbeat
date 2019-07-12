@@ -1,6 +1,6 @@
 # Amazonbeat
 
-Welcome to Amazonbeat.
+Welcome to Amazonbeat. This is an experimental project. The task of this beat is to get pricing information of amazon products via Amazon API.
 
 Ensure that this folder is at the following location:
 `${GOPATH}/src/github.com/felix-lessoer/amazonbeat`
